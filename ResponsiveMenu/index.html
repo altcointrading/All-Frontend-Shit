@@ -1,0 +1,103 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>event.preventDefault demo</title>
+  <script src="https://code.jquery.com/jquery-1.10.2.js"></script>
+</head>
+<body>
+<h1>fc#king jquery</h1>
+<ul>
+<li class="parent">
+  <a href="/de/">Parent</a>
+</li>
+<ul id="hideme" style="display:none;">
+  <li><a href="/de/">child</a></li>
+  <li><a href="/de/">default</a></li>
+  <li><a href="/de/">action is prevented</a></li>
+  <li><a href="/de/">action</a></li>
+</ul>
+</ul>
+<div id="log"></div>
+
+<script>
+$( ".parent a" ).click(function( event ) {
+  event.preventDefault();
+  $( '#hideme' ).show();
+  $(".parent").removeClass("unclicked");
+  $(".parent").addClass("clicked");
+});
+
+</script>
+
+</body>
+</html>
+<!--
+
+<head>
+
+<script src="jq.js"></script>
+<script>
+$( "a" ).click(function( event ) {
+  event.preventDefault();
+  $( "<div>" )
+    .append( "default " + event.type + " prevented" )
+    .appendTo( "#log" );
+});
+</script>
+</head>
+<body>
+<ul class="nav menu" id=" offc-toggle">
+  <li class="item-501"><a href="/de/">Home</a></li>
+  <li class="item-474 parent"><a href="/de/unternehmen">Unternehmen</a></li>
+    <ul class="nav-child unstyled small">
+      <li class="item-475"><a href="/de/unternehmen/historie">Historie</a></li>
+      <li class="item-476"><a href="/de/unternehmen/standorte">Standorte</a></li>
+      <li class="item-478"><a href="/de/unternehmen/referenzen">Referenzen</a></li>
+      <li class="item-477"><a href="/de/unternehmen/auszeichnungen">Auszeichnungen</a></li>
+      <li class="item-479"><a href="/de/unternehmen/presse">Presse</a></li>
+    </ul>
+  <li class="item-480 parent"><a href="/de/prozesse">Prozesse</a></li>
+    <ul class="nav-child unstyled small">
+      <li class="item-481"><a href="/de/prozesse/prozessgrafik">Prozessgrafik</a></li>
+    </ul>
+  <li class="item-482 parent"><a href="/de/produkte">Produkte</a></li>
+    <ul class="nav-child unstyled small">
+      <li class="item-481"><a href="/de/prozesse/prozessgrafik">Prozessgrafik</a></li>
+    </ul>
+  <li class="item-488 parent"><a href="/de/qualitaet">Qualität</a></li>
+    <ul class="nav-child unstyled small">
+      <li class="item-481"><a href="/de/prozesse/prozessgrafik">Prozessgrafik</a></li>
+    </ul>
+  <li class="item-489 parent"><a href="/de/karriere">Karriere</a></li>
+    <ul class="nav-child unstyled small">
+      <li class="item-481"><a href="/de/prozesse/prozessgrafik">Prozessgrafik</a></li>
+    </ul>
+  <li class="item-492 parent"><a href="/de/soziale-kompetenz">Soziale Kompetenz</a></li>
+</ul>
+</body>
+
+
+
+
+
+
+
+
+
+jQuery("#main_cat_prods img").data('clicked', 0);
+jQuery("#main_cat_prods").bind('img', 'click', function( event) {
+   var state = $(this).data('clicked') || 0;
+   if(state === 0){
+      // this will only happen the first time
+      event.preventDefault();
+      event.stopPropagation();
+      state++; // <-- we increment the state
+      $(this).data('clicked', state);// <-- and store it back in data
+      return; // <-- we stop the rest of the handler from running
+   }
+   // other code
+});
+
+
+-->

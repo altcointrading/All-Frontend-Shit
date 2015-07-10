@@ -1,0 +1,87 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>demo</title>
+</head>
+<body>
+<h1>omfg</h1>
+
+
+<ul class="nav menu">
+  <li class="item-501"><a href="/de/">Home</a></li>
+  <li class="item-474 parent"><a href="#" onclick="toggle_visibility('unter');">Unternehmen</a></li>
+    <ul class="nav-child unstyled small" id="unter" style="display:none;">
+      <li class="item-475"><a href="/de/unternehmen/">Unternehmen</a></li>
+      <li class="item-475"><a href="/de/unternehmen/historie">Historie</a></li>
+      <li class="item-476"><a href="/de/unternehmen/standorte">Standorte</a></li>
+      <li class="item-478"><a href="/de/unternehmen/referenzen">Referenzen</a></li>
+      <li class="item-477"><a href="/de/unternehmen/auszeichnungen">Auszeichnungen</a></li>
+      <li class="item-479"><a href="/de/unternehmen/presse">Presse</a></li>
+    </ul>
+  <li class="item-480 parent"><a href="#" onclick="toggle_visibility('proz');">Prozesse</a></li>
+    <ul class="nav-child unstyled small" id="proz"  style="display:none;">
+      <li class="item-481"><a href="/de/prozesse/prozessgrafik">Prozessgrafik</a></li>
+    </ul>
+
+
+  <li class="item-482 parent"><a href="#" onclick="toggle_visibility('unter');">Produkte</a></li>
+
+
+  <ul class="nav-child unstyled small" id="unter"  style="display:none;">
+    <li class="item-485"><a href="/de/produkte/">Produkte</a></li>
+    <li class="item-485"><a href="/de/produkte/getriebeteile">Getriebeteile</a></li>
+    <li class="item-484"><a href="/de/produkte/dieseldirekteinspritzung">Diesel-Direkteinspritzung</a></li>
+    <li class="item-486"><a href="/de/produkte/lenkungskomponenten">Lenkungskomponenten</a></li>
+    <li class="item-483"><a href="/de/produkte/benzindirekteinspritzung">Benzin-Direkteinspritzung</a></li>
+    <li class="item-487"><a href="/de/produkte/sonderkugellager">Sonderkugellager</a></li>
+  </ul>
+
+
+  <li class="item-488 parent"><a href="#" onclick="toggle_visibility('qua');">Qualität</a></li>
+
+<ul class="nav-child unstyled small" id="qua"  style="display:none;">
+  <li class="item-548"><a href="/de/qualitaet-3/">Qualität</a></li>
+  <li class="item-548"><a href="/de/qualitaet-3/qualitaetgrafik">Qualitätsgrafik</a></li>
+</ul>
+
+
+
+  <li class="item-489 parent"><a href="#" onclick="toggle_visibility('kar');">Karriere</a></li>
+
+  <ul class="nav-child unstyled small" id="kar"  style="display:none;">
+    <li><a href="/de/karriere/">Karriere</a></li>
+    <li><a href="/de/karriere/stellenanmarkt">Stellenmarkt</a></li>
+    <li><a href="/de/karriere/ausbildung">Ausbildung</a></li>
+    <li><a href="/de/karriere/praktikum">Praktikum</a></li>
+    <li><a href="/de/karriere/ferienarbeit">Ferienarbeit</a></li>
+  </ul>
+
+  <li class="item-492 parent"><a href="#" onclick="toggle_visibility('sk');">Soziale Kompetenz</a></li>
+
+  <ul class="nav-child unstyled small" id="sk"  style="display:none;">
+    <li class="item-493"><a href="/de/soziale-kompetenz/">Soziale Kompetenz</a></li>
+    <li class="item-493"><a href="/de/soziale-kompetenz/kodex">Kodex</a></li>
+    <li class="item-494"><a href="/de/soziale-kompetenz/partnerschaften">Partnerschaften</a></li>
+    <li class="item-495"><a href="/de/soziale-kompetenz/karl-reich-stiftung">Karl-Reich-Stiftung</a></li>
+  </ul>
+</ul>
+
+
+<script>
+
+
+function toggle_visibility(id) {
+this.preventDefault();
+       var e = document.getElementById(id);
+       if(e.style.display == 'block')
+          e.style.display = 'none';
+       else
+          e.style.display = 'block';
+    }
+
+
+</script>
+
+</body>
+</html>
