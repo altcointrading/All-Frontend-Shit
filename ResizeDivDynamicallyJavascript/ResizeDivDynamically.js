@@ -1,3 +1,4 @@
+// written for wordpress plugin
 // ---------- functions to fire once, onload
 
 window.addEventListener("load", function() {
@@ -45,7 +46,7 @@ function heightReset() {
 // find all headings of class a1, get sizes, find max height -- 2 lines or more
 // set height of all a1 headings equal
 // set cookie if adjustment for smaller screens:
-// -- (possibly desktop window resize that will have to be undone if resized back to fullscreen) 
+// -- (possibly desktop window resize that will have to be undone if resized back to fullscreen)
 
 function a1Resize() {
 
