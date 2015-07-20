@@ -1,0 +1,34 @@
+%html
+  %head
+  %script{:type => "text/javascript", :src => "https://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"}
+  %script{:type => "text/javascript", :src => "https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/js/bootstrap.min.js"}
+  %link{:type => "text/css", :rel => "stylesheet", :href => "https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/css/bootstrap.min.css"}
+  %link{:type => "text/css", :rel => "stylesheet", :href => "https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/css/bootstrap-theme.min.css"}
+  :css
+    #content{
+      background:url("https://www.birdbrain.com.au/wp-content/themes/birdbrainlogic/assets/art/post-background-placeholder.jpg");
+      min-height: 900px;
+      background-size: cover;
+      background-repeat: no-repeat;
+      position: relative;
+    }
+    #content:after{
+      content: "";
+      position: absolute;
+      top: 0;
+      left: 0;
+      z-index: 0;
+      width: 100%;
+      height: 100%;
+      background-color: rgba(157, 87, 175, 0.34);
+    }
+    .row{padding:100px}
+    .box{background:rgba(255,255,255,0.8);position:relative;z-index: 2;}
+  %body
+  #content
+    .row
+      .col-md-4.col-md-offset-4.box
+        %h1 Example of bg olay
+        %h3 So the way it works is you make a full width full height container with background image
+        %h3 Then instead of creating one more container to contain it and apply the rgba overlay, just use the :after selector
+        %h4 For instance in CMSs you usually cannot change the div structure just like it
