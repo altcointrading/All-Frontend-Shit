@@ -3,15 +3,15 @@
 
 window.addEventListener("load", function() {
       heightReset();
-      a1Resize();
+      a1Resize( passedclass );
 });
 
 // ---------- functions to fire on browser window resize
 
 window.addEventListener("resize", function() {
       heightReset();
-      a1Resize();
-      a1ResizeOnresize();
+      a1Resize( passedclass );
+      a1ResizeOnresize( passedclass );
 
 });
 
@@ -20,7 +20,7 @@ window.addEventListener("resize", function() {
 // check all boxes with text only, get sizes, find max height
 // adjust all boxes with image only to have the max height
 // ! image as div background cover center center
-function heightReset() {
+function heightReset( ) {
 
   var alldivs = document.getElementsByClassName('textonly');
   var imgdivs = document.getElementsByClassName('imageonly');
@@ -48,9 +48,9 @@ function heightReset() {
 // set cookie if adjustment for smaller screens:
 // -- (possibly desktop window resize that will have to be undone if resized back to fullscreen)
 
-function a1Resize() {
+function a1Resize( passedclass ) {
 
-  var alldivs = document.getElementsByClassName('a1');
+  var alldivs = document.getElementsByClassName(  passedclass  );
   var viewportwidth = window.innerWidth;
   var x;
   var i;
@@ -81,9 +81,9 @@ function a1Resize() {
 
 // on resize only
 // if was resized and now is large screen, restore auto height, then run equalizing function again
-function a1ResizeOnresize() {
+function a1ResizeOnresize( passedclass ) {
 
-  var alldivs = document.getElementsByClassName('a1');
+  var alldivs = document.getElementsByClassName( passedclass );
   var viewportwidth = window.innerWidth;
   var x;
 
@@ -93,7 +93,7 @@ function a1ResizeOnresize() {
               alldivs[x].style.height = "auto";
           }
           // repeat init resize:
-          a1Resize();
+          a1Resize( passedclass );
       }
   }
 
