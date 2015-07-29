@@ -1,0 +1,5 @@
+![some badge](SomeBadge.jpg)  
+![some callout](SomeCallout430x300.jpg)  
+![some call to action](SomeCTA.jpg)
+![some logo](SomeLogo160x90.png)
+![some portrait](SomePortrait400x400.jpg)

@@ -1,0 +1,64 @@
+<ul class="nav menu">
+  <li class="parent"><a href="#">&nbsp;</a><a href="/de/">Home</a></li>
+
+  <li class="parent"><a href="#" onclick="toggle_visibility('unter');"><i class="fa fa-plus-circle"></i></a><a href="/de/unternehmen/">Unternehmen</a></li>
+    <ul class="nav-child unstyled small" id="unter" style="display:none;">
+      <li><a href="/de/unternehmen/historie">Historie</a></li>
+      <li><a href="/de/unternehmen/standorte">Standorte</a></li>
+      <li><a href="/de/unternehmen/referenzen">Referenzen</a></li>
+      <li><a href="/de/unternehmen/auszeichnungen">Auszeichnungen</a></li>
+      <li><a href="/de/unternehmen/presse">Presse</a></li>
+    </ul>
+
+
+  <li class="parent"><a href="#" onclick="toggle_visibility('proz');"><i class="fa fa-plus-circle"></i></a><a href="/de/prozesse/">Prozesse</a></li>
+    <ul class="nav-child unstyled small" id="proz"  style="display:none;">
+      <li class="item-481"><a href="/de/prozesse/prozessgrafik">Prozessgrafik</a></li>
+    </ul>
+
+
+  <li class="parent"><a href="#" onclick="toggle_visibility('produkte');"><i class="fa fa-plus-circle"></i></a><a href="/de/produkte/">Produkte</a></li>
+  <ul class="nav-child unstyled small" id="produkte"  style="display:none;">
+    <li class="item-485"><a href="/de/produkte/getriebeteile">Getriebeteile</a></li>
+    <li class="item-484"><a href="/de/produkte/dieseldirekteinspritzung">Diesel-Direkteinspritzung</a></li>
+    <li class="item-486"><a href="/de/produkte/lenkungskomponenten">Lenkungskomponenten</a></li>
+    <li class="item-483"><a href="/de/produkte/benzindirekteinspritzung">Benzin-Direkteinspritzung</a></li>
+    <li class="item-487"><a href="/de/produkte/sonderkugellager">Sonderkugellager</a></li>
+  </ul>
+
+
+  <li class="parent"><a href="#" onclick="toggle_visibility('qua');"><i class="fa fa-plus-circle"></i></a><a href="/de/qualitaet-3/">Qualität</a></li>
+  <ul class="nav-child unstyled small" id="qua"  style="display:none;">
+    <li class="item-548"><a href="/de/qualitaet-3/qualitaetgrafik">Qualitätsgrafik</a></li>
+  </ul>
+
+
+
+  <li class="parent"><a href="#" onclick="toggle_visibility('kar');"><i class="fa fa-plus-circle"></i></a><a href="/de/karriere/">Karriere</a></li>
+
+  <ul class="nav-child unstyled small" id="kar"  style="display:none;">
+    <li><a href="/de/karriere/stellenanmarkt">Stellenmarkt</a></li>
+    <li><a href="/de/karriere/reich-ausbildung">Ausbildung</a></li>
+    <li><a href="/de/karriere/reich-praktikum">Praktikum</a></li>
+    <li><a href="/de/karriere/reich-ferienarbeit">Ferienarbeit</a></li>
+  </ul>
+
+  <li class="parent"><a href="#" onclick="toggle_visibility('sk');"><i class="fa fa-plus-circle"></i></a><a href="/de/soziale-kompetenz/">Soziale Kompetenz</a></li>
+
+  <ul class="nav-child unstyled small" id="sk"  style="display:none;">
+    <li class="item-493"><a href="/de/soziale-kompetenz/kodex">Kodex</a></li>
+    <li class="item-494"><a href="/de/soziale-kompetenz/partnerschaften">Partnerschaften</a></li>
+    <li class="item-495"><a href="/de/soziale-kompetenz/karl-reich-stiftung">Karl-Reich-Stiftung</a></li>
+  </ul>
+</ul>
+
+
+<script type="text/javascript">
+function toggle_visibility(id) {
+ var e = document.getElementById(id);
+ if(e.style.display == 'block')
+    e.style.display = 'none';
+  else
+    e.style.display = 'block';
+}
+</script>
