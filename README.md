@@ -20,16 +20,16 @@ see screenshot
 On devices below 1000px width gently slides in as fixed button. Above 1000px (or whatever) the same element is normal part of footer - see screenshots.  
   
 Nothing on doc ready:  
-![](https://github.com/mthjn/All-Frontend-Shit/blob/master/Scroll_ScrollToTopButton/img/AGP_Scroll_Onready.png)  
+![](https://github.com/mthjn/All-Frontend-Shit/blob/master/ScrollEffects/Scroll_ScrollToTopButton/img/AGP_Scroll_Onready.png)  
   
 ...here it comes on scroll:  
-![](https://github.com/mthjn/All-Frontend-Shit/blob/master/Scroll_ScrollToTopButton/img/AGP_Scroll_Onscroll.png)  
+![](https://github.com/mthjn/All-Frontend-Shit/blob/master/ScrollEffects/Scroll_ScrollToTopButton/img/AGP_Scroll_Onscroll.png)  
   
 ***  
   
 For AGP Project:  
   
 Alternative clrs / CSS  
-![](https://github.com/mthjn/All-Frontend-Shit/blob/master/Scroll_ScrollToTopButton/img/AGP_Scroll_Onscroll-Alternative.png)    
+![](https://github.com/mthjn/All-Frontend-Shit/blob/master/ScrollEffects/Scroll_ScrollToTopButton/img/AGP_Scroll_Onscroll-Alternative.png)    
 Different functionality  
-![](https://github.com/mthjn/All-Frontend-Shit/blob/master/Scroll_ScrollToTopButton/img/AGP_Scroll_Onscroll-Back.png)
+![](https://github.com/mthjn/All-Frontend-Shit/blob/master/ScrollEffects/Scroll_ScrollToTopButton/img/AGP_Scroll_Onscroll-Back.png)
