@@ -1,35 +1,32 @@
-Repo of all frontend shit I have to deal with. Some are actually quite useful utils. Here's the best:  
+# full website - altcointrading.net
 
-###### Javascript | Dynamically resize div on load and on browser window resize  
-see screenshot  
-  
-**1 | boxes with text or images (blue)**  
-* **onload** | read text boxes heights, find max, adjust image boxes heights to that max
-* image is div background cover center center  
-* no cookie needed: img and text boxes have different classes in php logic. adjusted only img. no recursive looping.
-* **on browser window resize** | div height changes on resize, adjust  
-  
-**2 | headings with underline of height dependent on amount of text (yellow)**  
-* **onload** | make them all in line
-* **on window resize** | if resized from full desktop (check?) to tablet width, store cookie. 
-* if then resized back to full desktop, if cookie ( = has been resized) restore auto height, run initial heights check again
+`All content belongs to github.com/altcointrading`
 
-![http://ibin.co/28PFmUhTmz7y](http://ibin.co/28PFmUhTmz7y)
-  
-###### jQuery scroll to top button  
-On devices below 1000px width gently slides in as fixed button. Above 1000px (or whatever) the same element is normal part of footer - see screenshots.  
-  
-Nothing on doc ready:  
-![](https://github.com/mthjn/All-Frontend-Shit/blob/master/Scroll/Scroll_ScrollToTopButton/img/AGP_Scroll_Onready.png)  
-  
-...here it comes on scroll:  
-![](https://github.com/mthjn/All-Frontend-Shit/blob/master/Scroll/Scroll_ScrollToTopButton/img/AGP_Scroll_Onscroll.png)  
-  
-***  
-  
-For AGP Project:  
-  
-Alternative clrs / CSS  
-![](https://github.com/mthjn/All-Frontend-Shit/blob/master/Scroll/Scroll_ScrollToTopButton/img/AGP_Scroll_Onscroll-Alternative.png)    
-Different functionality  
-![](https://github.com/mthjn/All-Frontend-Shit/blob/master/Scroll/Scroll_ScrollToTopButton/img/AGP_Scroll_Onscroll-Back.png)
+# the theme
+
+The Jekyll theme is available for free from [this repo](https://github.com/altcointrading/trading).
+
+It is a clean lightweight theme optimized with recent version of AMP (Google's Accelerated Mobile Pages).
+
+The theme's layout `forestry` is compatible with the publishing tool [Forestry](https://forestry.io/).
+
+**Developers:** [AT](https://github.com/altcointrading), [J Mat Trang](https://github.com/mthjn)
+
+________________________
+
+(c) 2016 - 2017 https://github.com/altcointrading
+
+
+////
+
+old ads by FuckSense(TM)
+
+```
+oldads:
+  aads728noamp: '<div class="clearfix"><iframe data-aa="147076" src="https://ad.a-ads.com/147076?size=728x90" scrolling="no" style="width:728px; height:90px; border:0px; padding:0;overflow:hidden" allowtransparency="true" frameborder="0"></iframe></div>'
+  aads728: '<div class="clearfix clearfix adfix"><amp-iframe width="728px" height="90px"
+    layout="responsive" data-aa="147076" sandbox="allow-scripts allow-same-origin allow-modals allow-popups allow-forms"
+    src="https://ad.a-ads.com/147076?size=728x90"><amp-img layout="fill" src="/img/ads/ad-placeholder.jpg"
+     placeholder></amp-img></amp-iframe></div><div class="clearfix"></div>'
+  sidebarnoamp: '<iframe data-aa='147074' src='https://ad.a-ads.com/147074?size=336x280' scrolling='no' style='width:336px; height:280px; border:0px; padding:0;overflow:hidden' allowtransparency='true' frameborder='0'></iframe>'
+```
