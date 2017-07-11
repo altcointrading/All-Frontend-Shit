@@ -5,9 +5,68 @@
     <description>Altcoin Trading is the forex of cryptocurrencies, with bitcoin as the base currency.</description>
     <link>https://www.altcointrading.net/</link>
     <atom:link href="https://www.altcointrading.net/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 11 Jul 2017 02:33:40 +0000</pubDate>
-    <lastBuildDate>Tue, 11 Jul 2017 02:33:40 +0000</lastBuildDate>
+    <pubDate>Tue, 11 Jul 2017 02:35:35 +0000</pubDate>
+    <lastBuildDate>Tue, 11 Jul 2017 02:35:35 +0000</lastBuildDate>
     <generator>Jekyll v3.4.3</generator>
+    
+      <item>
+        <title>Where to trade blackbytes</title>
+        <description>&lt;p&gt;Two days ago, on the full moon, there was a blackbytes airdrop. If you signed a message with a BTC address before the deadline on 9th of July, you received free &lt;strong&gt;bytes&lt;/strong&gt; and some hours later also some &lt;strong&gt;blackbytes&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;While the bytes can be traded on &lt;a href=&quot;https://bittrex.com/Market/Index?MarketName=BTC-GBYTE&quot;&gt;Bittrex (by millions as GBYTE)&lt;/a&gt;, the blackbytes aren’t traded anywhere. To trade these for bytes you need to sign up to the byteball slack channel &lt;a href=&quot;http://slack.byteball.org/&quot;&gt;via the autoinviter here&lt;/a&gt; and head to #trading_blackbyte channel. The channel has a bot that works as an order book by Gigabyte per Gigablackbyte:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://image.prntscr.com/image/D2NJV0HoTAqCiTrhnt38OQ.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Currently the top of the ask book is at 0.01290 GB/GBB and top of the bid book at 0.02008 GB/GBB.&lt;/p&gt;
+
+&lt;p&gt;Gigabytes per bitcoin are trading at Bittrex around 0.24 BTC ($585).&lt;/p&gt;
+
+&lt;h4 id=&quot;about-byteball&quot;&gt;About Byteball&lt;/h4&gt;
+
+&lt;p&gt;Byteball is a payment network that makes it easy to set conditional payments - &lt;em&gt;finalize payment only if condition is met&lt;/em&gt; - similar to ethereum smart contracts but more user-friendly:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://wiki.byteball.org/uploads/slackjore/bind-400.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;The way transactions are confirmed is from the high level similar to &lt;a href=&quot;https://www.altcointrading.net/iota&quot;&gt;IOTA’s tangle&lt;/a&gt;:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Transactions created by users are cryptographically linked to each other, and once you add your new transaction, other users start adding theirs on top of yours, and the number of other transactions that link to your transaction grows like snowball.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;In byteball this is called DAG (directed acyclic graph) - every new transaction references one or more earlier ones by including and signing their hashes. By including its parents, each new transaction also indirectly includes and confirms all parents of the parents, parents of the parents of the parents, and so on.&lt;/p&gt;
+
+&lt;p&gt;The supply is capped, there is no mining:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;The total number of bytes is 10^15, all bytes were issued in the genesis transaction. Since the fees paid are returned into the circulation, the money supply will remain the same.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;The difference between bytes and blackbytes is that blackbytes have enhanced privacy:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Private payments can be made using blackbytes, a cash-like untraceable currency. Its transactions are not visible on the public database that shows all payments made with (white)bytes. Blackbytes are sent peer-to-peer instead in an encrypted chat session.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://bitcointalk.org/index.php?topic=1608859.0&quot;&gt;Read more at bitcointalk&lt;/a&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;byteball-airdrops&quot;&gt;Byteball airdrops&lt;/h3&gt;
+
+&lt;p&gt;If you didn’t catch the first airdrop, there will be another one the next full moon (August 7th) - &lt;a href=&quot;https://byteball.org&quot;&gt;byteball.org&lt;/a&gt; has a countdown.&lt;/p&gt;
+
+&lt;h4 id=&quot;how-to-get-into-the-next-airdrop&quot;&gt;How to get into the next airdrop&lt;/h4&gt;
+
+&lt;p&gt;To enter the byteball giveaway you need to &lt;a href=&quot;https://byteball.org/#download&quot;&gt;download byteball wallet&lt;/a&gt; and from it &lt;a href=&quot;byteball:A2WMb6JEIrMhxVk+I0gIIW1vmM3ToKoLkNF8TqUV5UvX@byteball.org/bb#0000&quot;&gt;enter the chat window with the transition bot&lt;/a&gt;. The bot will tell you to first state your byteball address, then your bitcoin addresses each followed by a message signed with that address. The signed message must contain only your byteball address.&lt;/p&gt;
+</description>
+        <pubDate>Tue, 11 Jul 2017 02:35:00 +0000</pubDate>
+        <link>https://www.altcointrading.net/byteball</link>
+        <guid isPermaLink="true">https://www.altcointrading.net/byteball</guid>
+        
+        
+        <category>altcoins</category>
+        
+        <category>trading</category>
+        
+      </item>
     
       <item>
         <title>Economics of Proof of Stake</title>
@@ -604,33 +663,6 @@ Further details about this contract can be read in the &lt;a href=&quot;https://
         <link>https://www.altcointrading.net/quantum</link>
         <guid isPermaLink="true">https://www.altcointrading.net/quantum</guid>
         
-        
-      </item>
-    
-      <item>
-        <title>BAT/ETH trading is live</title>
-        <description>&lt;div class=&quot;mailchimpfix&quot;&gt; &lt;amp-iframe width=&quot;400px&quot; height=&quot;300px&quot; layout=&quot;fixed&quot; sandbox=&quot;allow-scripts allow-same-origin allow-modals allow-popups allow-forms&quot; src=&quot;https://amp2disqus.netlify.com/altcointrading/signup.html&quot;&gt;&lt;amp-img layout=&quot;fill&quot; src=&quot;/img/ads/ad-placeholder.jpg&quot; placeholder=&quot;&quot;&gt;&lt;/amp-img&gt;&lt;/amp-iframe&gt; &lt;/div&gt;
-
-&lt;p&gt;Congratulations to everyone who was faster than a regular American’s spermatozoon and got into the BAT presale.&lt;/p&gt;
-
-&lt;p&gt;For everyone else, here’s where you can lose some lunch money over it:&lt;/p&gt;
-
-&lt;p&gt;https://liqui.io/#/exchange/BAT_ETH&lt;/p&gt;
-
-&lt;p&gt;The BAT ICO was so hyped that the Ethereum network got congested and the sale was finished right in its first block. Some people got in by sending the transaction couple of blocks beforehand, counting on the congestion - but not all of them. It was a hit or miss. The miners gave preference to the chunky transactions, that means, the whales.&lt;/p&gt;
-
-&lt;p&gt;That’s how the distribution of the token became so much “the rich are getting richer”. Plebs who just wanted in with 1 ETH didn’t stand a chance.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://pbs.twimg.com/media/DBKavddU0AA4T3r.jpg&quot; style=&quot;max-width:100%&quot; /&gt;&lt;/p&gt;
-
-&lt;blockquote class=&quot;twitter-tweet&quot; data-lang=&quot;en&quot;&gt;&lt;p lang=&quot;en&quot; dir=&quot;ltr&quot;&gt;Hilarious &lt;a href=&quot;https://twitter.com/search?q=%24BAT&amp;amp;src=ctag&quot;&gt;$BAT&lt;/a&gt; &lt;a href=&quot;https://t.co/qMp5Y9JqjI&quot;&gt;pic.twitter.com/qMp5Y9JqjI&lt;/a&gt;&lt;/p&gt;&amp;mdash; Angelo฿TC (@AngeloBTC) &lt;a href=&quot;https://twitter.com/AngeloBTC/status/869927821463797760&quot;&gt;May 31, 2017&lt;/a&gt;&lt;/blockquote&gt;
-</description>
-        <pubDate>Wed, 31 May 2017 11:53:00 +0000</pubDate>
-        <link>https://www.altcointrading.net/bat-eth</link>
-        <guid isPermaLink="true">https://www.altcointrading.net/bat-eth</guid>
-        
-        
-        <category>trading</category>
         
       </item>
     
