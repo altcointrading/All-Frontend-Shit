@@ -5,8 +5,8 @@
     <description>Altcoin Trading is the forex of cryptocurrencies, with bitcoin as the base currency.</description>
     <link>https://www.altcointrading.net/</link>
     <atom:link href="https://www.altcointrading.net/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 11 Jul 2017 02:37:18 +0000</pubDate>
-    <lastBuildDate>Tue, 11 Jul 2017 02:37:18 +0000</lastBuildDate>
+    <pubDate>Thu, 13 Jul 2017 04:19:33 +0000</pubDate>
+    <lastBuildDate>Thu, 13 Jul 2017 04:19:33 +0000</lastBuildDate>
     <generator>Jekyll v3.4.3</generator>
     
       <item>
@@ -172,6 +172,14 @@ If ETH main office says you cheat, you lose your stake. If ETH main office says 
   &lt;li&gt;&lt;a href=&quot;https://github.com/ethereum/economic-modeling/tree/master/casper&quot;&gt;https://github.com/ethereum/economic-modeling/tree/master/casper&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://www.cs.cornell.edu/~ie53/publications/btcProcFC.pdf&quot;&gt;Paper on Selfish Mining&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
+
+&lt;hr /&gt;
+
+&lt;h3 id=&quot;update-13-jul-17&quot;&gt;Update, 13 Jul ‘17&lt;/h3&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://twitter.com/TuurDemeester&quot;&gt;Tuur Demeester&lt;/a&gt; published &lt;a href=&quot;https://medium.com/@tuurdemeester/critique-of-buterins-a-proof-of-stake-design-philosophy-49fc9ebb36c6&quot;&gt;critique of Vitalik’s piece on the PoS&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.reddit.com/r/ethereum/comments/6mvu7m/critique_of_buterins_a_proof_of_stake_design/dk50ny4/&quot;&gt;Vitalik’s response and discussion here&lt;/a&gt;&lt;/p&gt;
 </description>
         <pubDate>Fri, 07 Jul 2017 01:00:00 +0000</pubDate>
         <link>https://www.altcointrading.net/pos</link>
