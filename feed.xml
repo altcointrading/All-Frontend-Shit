@@ -5,19 +5,19 @@
     <description>Altcoin Trading is the forex of cryptocurrencies, with bitcoin as the base currency.</description>
     <link>https://www.altcointrading.net/</link>
     <atom:link href="https://www.altcointrading.net/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 19 Jul 2017 20:07:22 +0000</pubDate>
-    <lastBuildDate>Wed, 19 Jul 2017 20:07:22 +0000</lastBuildDate>
+    <pubDate>Wed, 19 Jul 2017 20:11:48 +0000</pubDate>
+    <lastBuildDate>Wed, 19 Jul 2017 20:11:48 +0000</lastBuildDate>
     <generator>Jekyll v3.4.3</generator>
     
       <item>
         <title>ETH multisig hack</title>
         <description>&lt;p&gt;There is a reason for the selloff, if you are looking for one.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;https://pbs.twimg.com/media/DFHvB86W0AEOnX0.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://pbs.twimg.com/media/DFHvB86W0AEOnX0.jpg&quot; style=&quot;max-width:100%&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Some multisig wallets with contracts for ICOs created with certain versions of Parity are vulnerable and getting drained.&lt;/p&gt;
 
-&lt;p&gt;So far all ICO money for Edgeless Casino, aeternity and swarm.city is gone. It is about $32M or 153k ether. &lt;a href=&quot;https://etherscan.io/address/0xb3764761e297d6f121e79c32a65829cd1ddb4d32#internaltx&quot;&gt;This is where the coins were sent to&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;So far all ICO money for Edgeless Casino, aeternity and swarm.city is gone. It is 153k ETH which was worth about $32M when the heist started. At the moment it is around $30M. &lt;a href=&quot;https://etherscan.io/address/0xb3764761e297d6f121e79c32a65829cd1ddb4d32#internaltx&quot;&gt;This is where the coins were sent to&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;The bug has not been fixed yet so the draining might be going to continue for a while longer, unless money is moved out of vulnerable wallets in time.&lt;/p&gt;
 </description>
