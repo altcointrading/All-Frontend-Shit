@@ -5,8 +5,8 @@
     <description>Altcoin Trading is the forex of cryptocurrencies, with bitcoin as the base currency.</description>
     <link>https://www.altcointrading.net/</link>
     <atom:link href="https://www.altcointrading.net/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 19 Jul 2017 20:31:41 +0000</pubDate>
-    <lastBuildDate>Wed, 19 Jul 2017 20:31:41 +0000</lastBuildDate>
+    <pubDate>Wed, 19 Jul 2017 20:41:01 +0000</pubDate>
+    <lastBuildDate>Wed, 19 Jul 2017 20:41:01 +0000</lastBuildDate>
     <generator>Jekyll v3.4.3</generator>
     
       <item>
@@ -21,7 +21,23 @@
 
 &lt;p&gt;The bug has not been fixed yet so the draining might be going to continue for a while longer, unless money is moved out of vulnerable wallets in time.&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;The vulnerability is a serious one, allegedly one only needs the public key and certain kind of metadata and that is enough to regenerate the wallet.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;The vulnerability is a serious one, allegedly one only needs the public key and certain kind of metadata and that is enough to regenerate the wallet.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;Update:&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://press.swarm.city/parity-multisig-wallet-exploit-hits-swarm-city-funds-statement-by-the-swarm-city-core-team-d1f3929b4e4e&quot;&gt;Some of the funds were secured by ways of the same hack by a group of white hackers.&lt;/a&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Swarm: A swift response from a whitehat hacker group used the same exploit to drain many other project’s parity multisig wallets, in order to protect them from theft. This group was able to save over 377,000 ETH. Unfortunately the 44,055 ETH that was in Swarm City’s wallet is gone.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Black hat hacker wallet address with stolen ether: https://etherscan.io/address/0xb3764761e297d6f121e79c32a65829cd1ddb4d32&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;White hat wallet address with preserved ether: https://etherscan.io/address/0x1dba1131000664b884a1ba238464159892252d3a&lt;/p&gt;
+&lt;/blockquote&gt;
 </description>
         <pubDate>Wed, 19 Jul 2017 16:47:00 +0000</pubDate>
         <link>https://www.altcointrading.net/eth-multisig-hack</link>
