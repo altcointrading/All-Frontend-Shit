@@ -1,6 +1,13 @@
 [
   
   {
+    "title":"Anonymous coins on the Apple App Store",
+    "date":"2017-07-20 10:38:00 +0000"
+    "content":"DASH wallet was released just yesterday to the Apple App Store."
+    "url":"/ios-dash-wallet-app"
+  },
+  
+  {
     "title":"ETH multisig hack",
     "date":"2017-07-19 16:47:00 +0000"
     "content":"Some ETH multisig wallets created with parity are being drained right now."
