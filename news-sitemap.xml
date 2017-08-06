@@ -7,6 +7,25 @@
   
 
     <url>
+      <loc>https://www.altcointrading.net/bitfinex-banking</loc>
+      <news:news>
+        <news:publication>
+          <news:name>Altcoin Trading</news:name>
+          <news:language>en</news:language>
+        </news:publication>
+        <news:genres>Blog</news:genres>
+        <news:publication_date>2017-08-06T02:00:00+02:00</news:publication_date>
+        <news:title>Bitfinex is not planning to resolve the banking issues for retail customers</news:title>
+        <news:keywords>markets, cryptocurrency, ethereum, monero, dash, bitcoin</news:keywords>
+        
+      </news:news>
+    </url>
+
+    
+  
+  
+
+    <url>
       <loc>https://www.altcointrading.net/ios-dash-wallet-app</loc>
       <news:news>
         <news:publication>
@@ -14,7 +33,7 @@
           <news:language>en</news:language>
         </news:publication>
         <news:genres>Blog</news:genres>
-        <news:publication_date>2017-07-20T10:38:00+00:00</news:publication_date>
+        <news:publication_date>2017-07-20T10:38:00+02:00</news:publication_date>
         <news:title>Anonymous coins on the Apple App Store</news:title>
         <news:keywords>markets, cryptocurrency, ethereum, monero, dash, bitcoin</news:keywords>
         
@@ -33,7 +52,7 @@
           <news:language>en</news:language>
         </news:publication>
         <news:genres>News</news:genres>
-        <news:publication_date>2017-07-19T16:47:00+00:00</news:publication_date>
+        <news:publication_date>2017-07-19T16:47:00+02:00</news:publication_date>
         <news:title>ETH multisig hack</news:title>
         <news:keywords>markets, cryptocurrency, ethereum, monero, dash, bitcoin</news:keywords>
         
@@ -52,7 +71,7 @@
           <news:language>en</news:language>
         </news:publication>
         <news:genres>News</news:genres>
-        <news:publication_date>2017-07-11T02:35:00+00:00</news:publication_date>
+        <news:publication_date>2017-07-11T02:35:00+02:00</news:publication_date>
         <news:title>Where to trade blackbytes</news:title>
         <news:keywords>markets, cryptocurrency, ethereum, monero, dash, bitcoin</news:keywords>
         
@@ -71,7 +90,7 @@
           <news:language>en</news:language>
         </news:publication>
         <news:genres>Blog</news:genres>
-        <news:publication_date>2017-07-07T01:00:00+00:00</news:publication_date>
+        <news:publication_date>2017-07-07T01:00:00+02:00</news:publication_date>
         <news:title>Economics of Proof of Stake</news:title>
         <news:keywords>markets, cryptocurrency, ethereum, monero, dash, bitcoin</news:keywords>
         
@@ -90,7 +109,7 @@
           <news:language>en</news:language>
         </news:publication>
         <news:genres>News</news:genres>
-        <news:publication_date>2017-06-27T00:09:00+00:00</news:publication_date>
+        <news:publication_date>2017-06-27T00:09:00+02:00</news:publication_date>
         <news:title>Trezor might be getting Monero, too</news:title>
         <news:keywords>markets, cryptocurrency, ethereum, monero, dash, bitcoin</news:keywords>
         
@@ -109,7 +128,7 @@
           <news:language>en</news:language>
         </news:publication>
         <news:genres>Blog</news:genres>
-        <news:publication_date>2017-06-18T21:12:00+00:00</news:publication_date>
+        <news:publication_date>2017-06-18T23:12:00+02:00</news:publication_date>
         <news:title>Gary Vee on Ethereum</news:title>
         <news:keywords>markets, cryptocurrency, ethereum, monero, dash, bitcoin</news:keywords>
         
@@ -128,7 +147,7 @@
           <news:language>en</news:language>
         </news:publication>
         <news:genres>Blog</news:genres>
-        <news:publication_date>2017-06-18T14:12:00+00:00</news:publication_date>
+        <news:publication_date>2017-06-18T16:12:00+02:00</news:publication_date>
         <news:title>Lending in the time of chain split</news:title>
         <news:keywords>markets, cryptocurrency, ethereum, monero, dash, bitcoin</news:keywords>
         
@@ -147,7 +166,7 @@
           <news:language>en</news:language>
         </news:publication>
         <news:genres>Blog</news:genres>
-        <news:publication_date>2017-06-15T10:12:00+00:00</news:publication_date>
+        <news:publication_date>2017-06-15T10:12:00+02:00</news:publication_date>
         <news:title>Tezos fundraiser scheduled 1 July</news:title>
         <news:keywords>markets, cryptocurrency, ethereum, monero, dash, bitcoin</news:keywords>
         
@@ -166,7 +185,7 @@
           <news:language>en</news:language>
         </news:publication>
         <news:genres>Blog</news:genres>
-        <news:publication_date>2017-06-15T06:36:00+00:00</news:publication_date>
+        <news:publication_date>2017-06-15T06:36:00+02:00</news:publication_date>
         <news:title>Ledger CTO says Monero viable</news:title>
         <news:keywords>markets, cryptocurrency, ethereum, monero, dash, bitcoin</news:keywords>
         
@@ -185,7 +204,7 @@
           <news:language>en</news:language>
         </news:publication>
         <news:genres>News</news:genres>
-        <news:publication_date>2017-06-11T21:39:00+00:00</news:publication_date>
+        <news:publication_date>2017-06-11T21:39:00+02:00</news:publication_date>
         <news:title>Important - Jaxx Vulnerability</news:title>
         <news:keywords>markets, cryptocurrency, ethereum, monero, dash, bitcoin</news:keywords>
         
@@ -204,7 +223,7 @@
           <news:language>en</news:language>
         </news:publication>
         <news:genres>News</news:genres>
-        <news:publication_date>2017-06-04T17:07:00+00:00</news:publication_date>
+        <news:publication_date>2017-06-04T17:07:00+02:00</news:publication_date>
         <news:title>Bitfinex is adding IOTA trading</news:title>
         <news:keywords>markets, cryptocurrency, ethereum, monero, dash, bitcoin</news:keywords>
         
@@ -225,7 +244,7 @@
           <news:language>en</news:language>
         </news:publication>
         <news:genres>Blog</news:genres>
-        <news:publication_date>2017-05-31T11:53:00+00:00</news:publication_date>
+        <news:publication_date>2017-05-31T11:53:00+02:00</news:publication_date>
         <news:title>BAT/ETH trading is live</news:title>
         <news:keywords>markets, cryptocurrency, ethereum, monero, dash, bitcoin</news:keywords>
         
@@ -244,7 +263,7 @@
           <news:language>en</news:language>
         </news:publication>
         <news:genres>Blog</news:genres>
-        <news:publication_date>2017-05-31T11:23:00+00:00</news:publication_date>
+        <news:publication_date>2017-05-31T11:23:00+02:00</news:publication_date>
         <news:title>OkCoin resumed BTC withdrawals</news:title>
         <news:keywords>markets, cryptocurrency, ethereum, monero, dash, bitcoin</news:keywords>
         
@@ -263,7 +282,7 @@
           <news:language>en</news:language>
         </news:publication>
         <news:genres>Blog</news:genres>
-        <news:publication_date>2017-05-31T03:00:00+00:00</news:publication_date>
+        <news:publication_date>2017-05-31T03:00:00+02:00</news:publication_date>
         <news:title>OkCoin Intl is adding ETH on June 1st 2017</news:title>
         <news:keywords>markets, cryptocurrency, ethereum, monero, dash, bitcoin</news:keywords>
         
@@ -282,7 +301,7 @@
           <news:language>en</news:language>
         </news:publication>
         <news:genres>Blog</news:genres>
-        <news:publication_date>2017-05-27T09:29:00+00:00</news:publication_date>
+        <news:publication_date>2017-05-27T09:29:00+02:00</news:publication_date>
         <news:title>Huobi is adding ETH on May 31st</news:title>
         <news:keywords>markets, cryptocurrency, ethereum, monero, dash, bitcoin</news:keywords>
         
@@ -301,7 +320,7 @@
           <news:language>en</news:language>
         </news:publication>
         <news:genres>Opinion</news:genres>
-        <news:publication_date>2017-05-22T06:38:00+00:00</news:publication_date>
+        <news:publication_date>2017-05-22T08:38:00+02:00</news:publication_date>
         <news:title>Ripple vs Stellar</news:title>
         <news:keywords>markets, cryptocurrency, ethereum, monero, dash, bitcoin</news:keywords>
         
@@ -320,7 +339,7 @@
           <news:language>en</news:language>
         </news:publication>
         <news:genres>Blog</news:genres>
-        <news:publication_date>2017-05-20T09:11:00+00:00</news:publication_date>
+        <news:publication_date>2017-05-20T09:11:00+02:00</news:publication_date>
         <news:title>How the legacy finance might be feeling about cryptocurrencies</news:title>
         <news:keywords>markets, cryptocurrency, ethereum, monero, dash, bitcoin</news:keywords>
         
@@ -339,7 +358,7 @@
           <news:language>en</news:language>
         </news:publication>
         <news:genres>Blog</news:genres>
-        <news:publication_date>2017-05-19T02:19:00+00:00</news:publication_date>
+        <news:publication_date>2017-05-19T02:19:00+02:00</news:publication_date>
         <news:title>A "This Is Gentlemen" Moment</news:title>
         <news:keywords>markets, cryptocurrency, ethereum, monero, dash, bitcoin</news:keywords>
         
@@ -358,7 +377,7 @@
           <news:language>en</news:language>
         </news:publication>
         <news:genres>News</news:genres>
-        <news:publication_date>2017-05-18T03:41:00+00:00</news:publication_date>
+        <news:publication_date>2017-05-18T03:41:00+02:00</news:publication_date>
         <news:title>Monero mining malware</news:title>
         <news:keywords>markets, cryptocurrency, ethereum, monero, dash, bitcoin</news:keywords>
         
@@ -377,7 +396,7 @@
           <news:language>en</news:language>
         </news:publication>
         <news:genres>Blog, Opinion</news:genres>
-        <news:publication_date>2017-05-11T12:49:00+00:00</news:publication_date>
+        <news:publication_date>2017-05-11T12:49:00+02:00</news:publication_date>
         <news:title>Peerplays crowdfund ends in 3 days</news:title>
         <news:keywords>markets, cryptocurrency, ethereum, monero, dash, bitcoin</news:keywords>
         
@@ -398,7 +417,7 @@
           <news:language>en</news:language>
         </news:publication>
         <news:genres>Opinion</news:genres>
-        <news:publication_date>2017-04-26T13:06:00+00:00</news:publication_date>
+        <news:publication_date>2017-04-26T15:06:00+02:00</news:publication_date>
         <news:title>Grayscale did it</news:title>
         <news:keywords>markets, cryptocurrency, ethereum, monero, dash, bitcoin</news:keywords>
         
@@ -417,7 +436,7 @@
           <news:language>en</news:language>
         </news:publication>
         <news:genres>Opinion</news:genres>
-        <news:publication_date>2017-04-25T12:06:00+00:00</news:publication_date>
+        <news:publication_date>2017-04-25T14:06:00+02:00</news:publication_date>
         <news:title>The Gnosis thing</news:title>
         <news:keywords>markets, cryptocurrency, ethereum, monero, dash, bitcoin</news:keywords>
         
@@ -436,7 +455,7 @@
           <news:language>en</news:language>
         </news:publication>
         <news:genres>Opinion, OpEd</news:genres>
-        <news:publication_date>2017-04-13T12:24:00+00:00</news:publication_date>
+        <news:publication_date>2017-04-13T12:24:00+02:00</news:publication_date>
         <news:title>Opinion: Time in the market vs timing the market</news:title>
         <news:keywords>markets, cryptocurrency, ethereum, monero, dash, bitcoin</news:keywords>
         
@@ -455,7 +474,7 @@
           <news:language>en</news:language>
         </news:publication>
         <news:genres>Opinion</news:genres>
-        <news:publication_date>2017-04-09T11:20:00+00:00</news:publication_date>
+        <news:publication_date>2017-04-09T11:20:00+02:00</news:publication_date>
         <news:title>Litecoin: This time it's different?</news:title>
         <news:keywords>markets, cryptocurrency, ethereum, monero, dash, bitcoin</news:keywords>
         
@@ -474,7 +493,7 @@
           <news:language>en</news:language>
         </news:publication>
         <news:genres>Blog, OpEd, Opinion</news:genres>
-        <news:publication_date>2017-03-25T15:20:00+00:00</news:publication_date>
+        <news:publication_date>2017-03-25T15:20:00+01:00</news:publication_date>
         <news:title>About the proposed Ethereum ETF</news:title>
         <news:keywords>markets, cryptocurrency, ethereum, monero, dash, bitcoin</news:keywords>
         
@@ -495,7 +514,7 @@
           <news:language>en</news:language>
         </news:publication>
         <news:genres>Opinion</news:genres>
-        <news:publication_date>2017-03-22T04:20:00+00:00</news:publication_date>
+        <news:publication_date>2017-03-22T04:20:00+01:00</news:publication_date>
         <news:title>Cryptosignal - New tool for Ethereum traders</news:title>
         <news:keywords>markets, cryptocurrency, ethereum, monero, dash, bitcoin</news:keywords>
         
@@ -514,7 +533,7 @@
           <news:language>en</news:language>
         </news:publication>
         <news:genres>Opinion</news:genres>
-        <news:publication_date>2017-03-18T17:20:00+00:00</news:publication_date>
+        <news:publication_date>2017-03-18T17:20:00+01:00</news:publication_date>
         <news:title>Alphabay to adopt ETH for payments ahead of new privacy features</news:title>
         <news:keywords>markets, cryptocurrency, ethereum, monero, dash, bitcoin</news:keywords>
         
@@ -533,7 +552,7 @@
           <news:language>en</news:language>
         </news:publication>
         <news:genres>Opinion</news:genres>
-        <news:publication_date>2017-03-15T01:20:00+00:00</news:publication_date>
+        <news:publication_date>2017-03-15T01:20:00+01:00</news:publication_date>
         <news:title>Monero Cold Storage: Current Situation</news:title>
         <news:keywords>markets, cryptocurrency, ethereum, monero, dash, bitcoin</news:keywords>
         
@@ -552,7 +571,7 @@
           <news:language>en</news:language>
         </news:publication>
         <news:genres>Opinion</news:genres>
-        <news:publication_date>2017-03-10T00:00:00+00:00</news:publication_date>
+        <news:publication_date>2017-03-10T00:00:00+01:00</news:publication_date>
         <news:title>Bitcoin ETF rejected, Ethereum ETF is probably off the table too</news:title>
         <news:keywords>markets, cryptocurrency, ethereum, monero, dash, bitcoin</news:keywords>
         
@@ -573,7 +592,7 @@
           <news:language>en</news:language>
         </news:publication>
         <news:genres>UserGenerated</news:genres>
-        <news:publication_date>2017-03-06T00:00:00+00:00</news:publication_date>
+        <news:publication_date>2017-03-06T00:00:00+01:00</news:publication_date>
         <news:title>TradingView users on DASH: March 7th 2017</news:title>
         <news:keywords>markets, cryptocurrency, ethereum, monero, dash, bitcoin</news:keywords>
         
@@ -592,7 +611,7 @@
           <news:language>en</news:language>
         </news:publication>
         <news:genres>Opinion</news:genres>
-        <news:publication_date>2017-03-01T00:00:00+00:00</news:publication_date>
+        <news:publication_date>2017-03-01T00:00:00+01:00</news:publication_date>
         <news:title>Kraken acquires Cryptowatch, lead dev will work for them</news:title>
         <news:keywords>markets, cryptocurrency, ethereum, monero, dash, bitcoin</news:keywords>
         
@@ -615,7 +634,7 @@
           <news:language>en</news:language>
         </news:publication>
         <news:genres>Opinion</news:genres>
-        <news:publication_date>2017-02-01T00:00:00+00:00</news:publication_date>
+        <news:publication_date>2017-02-01T00:00:00+01:00</news:publication_date>
         <news:title>Trezor (SatoshiLabs) added DASH wallet and ZCASH wallet</news:title>
         <news:keywords>markets, cryptocurrency, ethereum, monero, dash, bitcoin</news:keywords>
         
@@ -642,7 +661,7 @@
           <news:language>en</news:language>
         </news:publication>
         <news:genres>Opinion</news:genres>
-        <news:publication_date>2016-08-06T00:00:00+00:00</news:publication_date>
+        <news:publication_date>2016-08-06T00:00:00+02:00</news:publication_date>
         <news:title>The Finexening - Bitfinex hack</news:title>
         <news:keywords>markets, cryptocurrency, ethereum, monero, dash, bitcoin</news:keywords>
         

@@ -5,9 +5,35 @@
     <description>Altcoin Trading is the forex of cryptocurrencies, with bitcoin as the base currency.</description>
     <link>https://www.altcointrading.net/</link>
     <atom:link href="https://www.altcointrading.net/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 20 Jul 2017 11:15:26 +0000</pubDate>
-    <lastBuildDate>Thu, 20 Jul 2017 11:15:26 +0000</lastBuildDate>
+    <pubDate>Sun, 06 Aug 2017 17:57:19 +0200</pubDate>
+    <lastBuildDate>Sun, 06 Aug 2017 17:57:19 +0200</lastBuildDate>
     <generator>Jekyll v3.4.3</generator>
+    
+      <item>
+        <title>Bitfinex is not planning to resolve the banking issues for retail customers</title>
+        <description>&lt;p&gt;Phill G. Potter of Bitfinex (PGP) did an interview on Whalepool’s teamspeak just now. PGP used to be a regular on there but over the past few weeks there was no sight of him - it is not so hard to imagine he’d be bombarded with questions for hours the minute he’d log in these days.&lt;/p&gt;
+
+&lt;p&gt;During the interview he spoke about the Bcash distribution, the new altcoins that are getting listed on Bitfinex and the ongoing fiat withdrawal issues - the banking issues being the only point where he actually said something surprising.&lt;/p&gt;
+
+&lt;p&gt;As you know, some months ago Bitfinex started having issues with their banking routes and had to stop fiat withdrawals. That also influenced people who weren’t using the fiat withdrawal and also those who didn’t even trade on Bitfinex because Bitfinex was removed from indexes for futures markets because an exchange without fiat withdrawals is bound to have bullish bias on cryptocurrencies that has nothing to do with the state of the market. Until now Bitfinex people kept making it clear that this fiat issue was being worked on and hopefully new routes would be set up. In the meantime, withdrawals were enabled for several bigger customers and for people with access to banking in Taiwan which is where Bitfinex banks. Traders took this for a good sign and were expecting the situation would be back in normal soon. Today though PGP explained that the banking issues won’t change from what is it now.&lt;/p&gt;
+
+&lt;p&gt;According to PGP, it wouldn’t pay off to Bitfinex to enable withdrawals for average the retail trader. He said the banks “don’t like to see many small transactions each day, it is harder to do AML/KYC for the USD routes and other fiat currencies, too”. Apparently enabling crypto-fiat routes for the retail would lead to more disruptions in the future anyway so it is not worth it for Bitfinex to do it. The way it works these days is if you are a big enough whale you already have fiat routes enabled, unless you’re new in which case you should talk to customer service. PGP explained the banking will probably stay available for the (few) regulars as they are KYC’d and known, while others will have to put up with crypto withdrawals and realize the profit via Kraken or Bitstamp if they want to. Effectively Bitfinex is trying to outsource this hassle to the exchanges that don’t have their fiat routes blocked.&lt;/p&gt;
+
+&lt;p&gt;Among the other things that PGP was talking about was the Bcash distribution the rules of which were changed after the distribution happened: ,,There is a lot of amateur laywers on Reddit but we have received no legal claims or complaints,” he explained and added a justification - the policy was changed so that people who hedged in such a way they didn’t have exposure to BTC would get no BCH, in other words in favor of people who had a position in BTC. Bitfinex always reserves the right to change their terms at any moment so there is not much you can do if you tried to game the system and were caught.&lt;/p&gt;
+
+&lt;p&gt;PGP’s explanation as to why Bitfinex suddenly lists tokens that are unheard of amounted to &lt;em&gt;there’s money in it&lt;/em&gt; although it was said in better words.&lt;/p&gt;
+
+&lt;p&gt;This post will be updated with a link to the YouTube video of the teamspeak interview once it’s uploaded. To catch the next event connect to &lt;a href=&quot;https://whalepool.io/connect/teamspeak&quot;&gt;https://whalepool.io/connect/teamspeak&lt;/a&gt; - the rumor has it John Bollinger will be coming soon.&lt;/p&gt;
+
+</description>
+        <pubDate>Sun, 06 Aug 2017 02:00:00 +0200</pubDate>
+        <link>https://www.altcointrading.net/bitfinex-banking</link>
+        <guid isPermaLink="true">https://www.altcointrading.net/bitfinex-banking</guid>
+        
+        
+        <category>trading</category>
+        
+      </item>
     
       <item>
         <title>Anonymous coins on the Apple App Store</title>
@@ -33,7 +59,7 @@
 
 &lt;p&gt;Monero’s situation is even better! There is a &lt;a href=&quot;https://itunes.apple.com/us/app/monero-wallet-by-freewallet/id1126426159?mt=8&quot;&gt;Monero wallet approved by the App Store&lt;/a&gt; right now but as slick as it looks, it is a scam. It has been a &lt;a href=&quot;https://www.reddit.com/r/Monero/comments/5lrnw8/anyone_use_the_monero_app_on_the_apple_app_store/&quot;&gt;known scam for at least six months&lt;/a&gt; yet it is still available on the wonderful Apple App Store with diligent app reviews.&lt;/p&gt;
 </description>
-        <pubDate>Thu, 20 Jul 2017 10:38:00 +0000</pubDate>
+        <pubDate>Thu, 20 Jul 2017 10:38:00 +0200</pubDate>
         <link>https://www.altcointrading.net/ios-dash-wallet-app</link>
         <guid isPermaLink="true">https://www.altcointrading.net/ios-dash-wallet-app</guid>
         
@@ -80,7 +106,7 @@
 
 &lt;p&gt;The bug has been fixed - &lt;a href=&quot;https://github.com/paritytech/parity/commit/e06a1e8dd9cfd8bf5d87d24b11aee0e8f6ff9aeb&quot;&gt;github&lt;/a&gt;&lt;/p&gt;
 </description>
-        <pubDate>Wed, 19 Jul 2017 16:47:00 +0000</pubDate>
+        <pubDate>Wed, 19 Jul 2017 16:47:00 +0200</pubDate>
         <link>https://www.altcointrading.net/eth-multisig-hack</link>
         <guid isPermaLink="true">https://www.altcointrading.net/eth-multisig-hack</guid>
         
@@ -135,7 +161,7 @@
 
 &lt;p&gt;To enter the byteball giveaway you need to &lt;a href=&quot;https://byteball.org/#download&quot;&gt;download byteball wallet&lt;/a&gt; and from it &lt;a href=&quot;byteball:A2WMb6JEIrMhxVk+I0gIIW1vmM3ToKoLkNF8TqUV5UvX@byteball.org/bb#0000&quot;&gt;enter the chat window with the transition bot&lt;/a&gt;. The bot will tell you to first state your byteball address, then your bitcoin addresses each followed by a message signed with that address. The signed message must contain only your byteball address.&lt;/p&gt;
 </description>
-        <pubDate>Tue, 11 Jul 2017 02:35:00 +0000</pubDate>
+        <pubDate>Tue, 11 Jul 2017 02:35:00 +0200</pubDate>
         <link>https://www.altcointrading.net/byteball</link>
         <guid isPermaLink="true">https://www.altcointrading.net/byteball</guid>
         
@@ -259,7 +285,7 @@ If ETH main office says you cheat, you lose your stake. If ETH main office says 
 
 &lt;p&gt;&lt;a href=&quot;https://www.reddit.com/r/ethereum/comments/6mvu7m/critique_of_buterins_a_proof_of_stake_design/dk50ny4/&quot;&gt;Vitalik’s response and discussion here&lt;/a&gt;&lt;/p&gt;
 </description>
-        <pubDate>Fri, 07 Jul 2017 01:00:00 +0000</pubDate>
+        <pubDate>Fri, 07 Jul 2017 01:00:00 +0200</pubDate>
         <link>https://www.altcointrading.net/pos</link>
         <guid isPermaLink="true">https://www.altcointrading.net/pos</guid>
         
@@ -288,7 +314,7 @@ If ETH main office says you cheat, you lose your stake. If ETH main office says 
 
 &lt;p&gt;&lt;a href=&quot;https://steemit.com/programming/@arcitecx/bounty-5-btc-for-xmr-implementation-on-trezor&quot;&gt;According to a post from Steemit, Slush apparently offers 5 BTC for this gig.&lt;/a&gt;&lt;/p&gt;
 </description>
-        <pubDate>Tue, 27 Jun 2017 00:09:00 +0000</pubDate>
+        <pubDate>Tue, 27 Jun 2017 00:09:00 +0200</pubDate>
         <link>https://www.altcointrading.net/trezor-monero</link>
         <guid isPermaLink="true">https://www.altcointrading.net/trezor-monero</guid>
         
@@ -327,7 +353,7 @@ If ETH main office says you cheat, you lose your stake. If ETH main office says 
 
 &lt;p&gt;Gary Vee has been asked many times about bitcoin in his Youtube ask show but every time he simply said he understands neither crypto nor the regulations hence he can’t talk about that.&lt;/p&gt;
 </description>
-        <pubDate>Sun, 18 Jun 2017 21:12:00 +0000</pubDate>
+        <pubDate>Sun, 18 Jun 2017 23:12:00 +0200</pubDate>
         <link>https://www.altcointrading.net/garyvee-eth</link>
         <guid isPermaLink="true">https://www.altcointrading.net/garyvee-eth</guid>
         
@@ -460,7 +486,7 @@ maybe you loan them out for interest.&lt;/p&gt;
 
 &lt;blockquote class=&quot;twitter-tweet&quot; data-lang=&quot;en-gb&quot;&gt;&lt;p lang=&quot;en&quot; dir=&quot;ltr&quot;&gt;In case of a hard fork our existing futures and options will at expire at BTC + BTU price. More details will follow in a newsletter soon.&lt;/p&gt;&amp;mdash; Deribit (@DeribitExchange) &lt;a href=&quot;https://twitter.com/DeribitExchange/status/844087435856371712&quot;&gt;21 March 2017&lt;/a&gt;&lt;/blockquote&gt;
 </description>
-        <pubDate>Sun, 18 Jun 2017 14:12:00 +0000</pubDate>
+        <pubDate>Sun, 18 Jun 2017 16:12:00 +0200</pubDate>
         <link>https://www.altcointrading.net/lending-btc-chain-split</link>
         <guid isPermaLink="true">https://www.altcointrading.net/lending-btc-chain-split</guid>
         
@@ -544,7 +570,7 @@ maybe you loan them out for interest.&lt;/p&gt;
 
 &lt;p&gt;Force majeure means ‘unforeseeable circumstances that prevent someone from fulfilling a contract’. That’s a normal condition to have in a contract but at the same time there is always a lot of unforeseeable circumstances in crypto.&lt;/p&gt;
 </description>
-        <pubDate>Thu, 15 Jun 2017 10:12:00 +0000</pubDate>
+        <pubDate>Thu, 15 Jun 2017 10:12:00 +0200</pubDate>
         <link>https://www.altcointrading.net/tezos</link>
         <guid isPermaLink="true">https://www.altcointrading.net/tezos</guid>
         
@@ -564,53 +590,12 @@ maybe you loan them out for interest.&lt;/p&gt;
 &lt;p&gt;u/btchip: &lt;em&gt;From our current evaluation we’re convinced it’s doable. Next step will be to provide an ETA.&lt;/em&gt;&lt;/p&gt;
 
 </description>
-        <pubDate>Thu, 15 Jun 2017 06:36:00 +0000</pubDate>
+        <pubDate>Thu, 15 Jun 2017 06:36:00 +0200</pubDate>
         <link>https://www.altcointrading.net/ledger-monero</link>
         <guid isPermaLink="true">https://www.altcointrading.net/ledger-monero</guid>
         
         
         <category>xmr</category>
-        
-        <category>wallets</category>
-        
-      </item>
-    
-      <item>
-        <title>Important - Jaxx Vulnerability</title>
-        <description>&lt;p&gt;&lt;strong&gt;Source&lt;/strong&gt;: &lt;a href=&quot;https://vxlabs.com/2017/06/10/extracting-the-jaxx-12-word-wallet-backup-phrase/&quot;&gt;vxlabs.com&lt;/a&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;Even when your Jaxx has a security PIN configured, anyone with 20 seconds of (network) access to your PC can extract your 12 word backup phrase and copy it down. Jaxx does not have to be running for this to happen.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;With the 12 word backup phrase, they can later restore your wallet, including all of your private keys, on their own computers, and then proceed to transfer away all of your cryptocurrency.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;The main problem is that the Jaxx software encrypts the mnemonic using a hard-coded encryption key, instead of making use of a strong user-supplied password. (As Daira Hopwood points out in the comments, using the PIN would not be sufficient.)&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;This means we can easily read and decrypt the full recovery phrase from local storage using sqlite3 and some straight-forward code.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;I successfully tested this vulnerability on the Jaxx Chrome extension v1.2.17 and the Jaxx Linux desktop app 1.2.13.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;If you have BTC, ETH, ETC or other coins in Jaxx &lt;a href=&quot;https://image.prntscr.com/image/H0bBXL7eQvmoiHnzyhF5nQ.png&quot;&gt;get them out now&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;If you only ever used the Jaxx mobile apps your coins are apparently safe (not if you use both desktop and and mobile though).&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Update&lt;/strong&gt;: &lt;a href=&quot;https://image.prntscr.com/image/jfXeeLw_Ri2VJjd-sz60fg.png&quot;&gt;People report stolen ETH, ETC and ZEC&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;If you lost coins report it &lt;a href=&quot;https://t.me/whalepoolbtc&quot;&gt;on whalepool telegram&lt;/a&gt;&lt;/p&gt;
-</description>
-        <pubDate>Sun, 11 Jun 2017 21:39:00 +0000</pubDate>
-        <link>https://www.altcointrading.net/jaxx-vulnerability</link>
-        <guid isPermaLink="true">https://www.altcointrading.net/jaxx-vulnerability</guid>
-        
         
         <category>wallets</category>
         
