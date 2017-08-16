@@ -7,6 +7,25 @@
   
 
     <url>
+      <loc>https://www.altcointrading.net/bitstamp-ethereum</loc>
+      <news:news>
+        <news:publication>
+          <news:name>Altcoin Trading</news:name>
+          <news:language>en</news:language>
+        </news:publication>
+        <news:genres>Blog</news:genres>
+        <news:publication_date>2017-08-16T18:37:48+02:00</news:publication_date>
+        <news:title>Bitstamp launches Ethereum trading tomorrow</news:title>
+        <news:keywords>markets, cryptocurrency, ethereum, monero, dash, bitcoin</news:keywords>
+        
+      </news:news>
+    </url>
+
+    
+  
+  
+
+    <url>
       <loc>https://www.altcointrading.net/bitfinex-banking</loc>
       <news:news>
         <news:publication>

@@ -5,9 +5,36 @@
     <description>Altcoin Trading is the forex of cryptocurrencies, with bitcoin as the base currency.</description>
     <link>https://www.altcointrading.net/</link>
     <atom:link href="https://www.altcointrading.net/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 06 Aug 2017 18:44:22 +0200</pubDate>
-    <lastBuildDate>Sun, 06 Aug 2017 18:44:22 +0200</lastBuildDate>
+    <pubDate>Wed, 16 Aug 2017 19:41:24 +0200</pubDate>
+    <lastBuildDate>Wed, 16 Aug 2017 19:41:24 +0200</lastBuildDate>
     <generator>Jekyll v3.4.3</generator>
+    
+      <item>
+        <title>Bitstamp launches Ethereum trading tomorrow</title>
+        <description>&lt;p&gt;Bitstamp sent a reminder to their customers today that Ethereum trading is starting soon - Thursday, 17 August 2017.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;It gives us great pleasure to announce that we will be launching ETH for trading with &lt;strong&gt;BTC, USD and EUR&lt;/strong&gt; tomorrow, Thursday, 17 August!&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Ether deposits and withdrawals will open at 9.00 a.m. (UTC) on that date, with full trading functionalities commencing at 1.00 pm (UTC) .&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;&lt;strong&gt;FREE TRADING will be available on these pairs until 1 October&lt;/strong&gt;, with other generous discounts to follow until the end of the year!&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://www.bitstamp.net/s/email_images/trading-news@2x.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+</description>
+        <pubDate>Wed, 16 Aug 2017 18:37:48 +0200</pubDate>
+        <link>https://www.altcointrading.net/bitstamp-ethereum</link>
+        <guid isPermaLink="true">https://www.altcointrading.net/bitstamp-ethereum</guid>
+        
+        
+        <category>trading</category>
+        
+      </item>
     
       <item>
         <title>Bitfinex is not planning to resolve the banking issues for retail customers</title>
@@ -577,28 +604,6 @@ maybe you loan them out for interest.&lt;/p&gt;
         
         
         <category>trading</category>
-        
-      </item>
-    
-      <item>
-        <title>Ledger CTO says Monero viable</title>
-        <description>&lt;p&gt;Everyone who managed to buy the blip to $16 on Bitfinex XMRUSD the other day, good on you! It’s time for Monero to rise from the ashes and lure back in all the butthurt ex-holders who got fluffyponied.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://reddit.com/u/btchip&quot;&gt;CTO of Ledger&lt;/a&gt; says the team determined Monero integration is viable after all. Next step is providing the estimated time to delivery.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://www.reddit.com/r/ledgerwallet/comments/6hdo1r/does_ledger_nano_s_support_monero_xmr_yet/&quot;&gt;Thread on reddit&lt;/a&gt; from just two hours ago&lt;/p&gt;
-
-&lt;p&gt;u/btchip: &lt;em&gt;From our current evaluation we’re convinced it’s doable. Next step will be to provide an ETA.&lt;/em&gt;&lt;/p&gt;
-
-</description>
-        <pubDate>Thu, 15 Jun 2017 06:36:00 +0200</pubDate>
-        <link>https://www.altcointrading.net/ledger-monero</link>
-        <guid isPermaLink="true">https://www.altcointrading.net/ledger-monero</guid>
-        
-        
-        <category>xmr</category>
-        
-        <category>wallets</category>
         
       </item>
     
