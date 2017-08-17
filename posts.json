@@ -1,6 +1,13 @@
 [
   
   {
+    "title":"Trezor devices have serious security vulnerability",
+    "date":"2017-08-17 14:18:25 +0200"
+    "content":"...even after yesterdays security update of the firmware."
+    "url":"/trezor-hack"
+  },
+  
+  {
     "title":"Bitstamp launches Ethereum trading tomorrow",
     "date":"2017-08-16 18:37:48 +0200"
     "content":"And there will be free trading until October"

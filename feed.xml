@@ -5,9 +5,79 @@
     <description>Altcoin Trading is the forex of cryptocurrencies, with bitcoin as the base currency.</description>
     <link>https://www.altcointrading.net/</link>
     <atom:link href="https://www.altcointrading.net/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 16 Aug 2017 19:44:52 +0200</pubDate>
-    <lastBuildDate>Wed, 16 Aug 2017 19:44:52 +0200</lastBuildDate>
+    <pubDate>Thu, 17 Aug 2017 14:44:45 +0200</pubDate>
+    <lastBuildDate>Thu, 17 Aug 2017 14:44:45 +0200</lastBuildDate>
     <generator>Jekyll v3.4.3</generator>
+    
+      <item>
+        <title>Trezor devices have serious security vulnerability</title>
+        <description>&lt;p&gt;Just yesterday, Trezor released a security update. It updated your firmware to version 1.5.2 as older versions of firmware could make your seedphrase visible to someone who’d steal the device, took it apart and flashed it with a hacked-up firmware.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://blog.trezor.io/trezor-firmware-security-update-1-5-2-5ef1b6f13fed&quot;&gt;Here&lt;/a&gt; is the official story from Satoshi Labs:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;It is important to note that this is not a remote execution attack. To exploit this issue, an attacker would need physical access to a disassembled TREZOR device with uncovered electronics. It is impossible to do this without destroying the plastic case.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;In order to exploit this issue, an attacker would have to break into the device, destroying the case in the process. They would also need to flash the device with a specially-crafted firmware. If your device is intact, your seed is safe, and you should update your firmware to 1.5.2 as soon as possible.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;With firmware 1.5.2, this attack vector is eliminated and your device is safe.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;As it happens, &lt;a href=&quot;https://medium.com/@Zero404Cool/trezor-security-glitches-reveal-your-private-keys-761eeab03ff8&quot;&gt;the unofficial version&lt;/a&gt; is a lot worse:&lt;/p&gt;
+
+&lt;p&gt;The frantic patch creation we see now, before any coins have been lost (apparently), is because the &lt;a href=&quot;https://media.defcon.org/DEF%20CON%2025/DEF%20CON%2025%20presentations/DEFCON-25-Datko-and-Quartier-Breaking-Bitcoin-Hardware-Wallets.pdf&quot;&gt;issue was talked about at DEF CON 25&lt;/a&gt;. All Trezors, regardless of the firmware, use a chip that is vulnerable. According to the author of the article linked above, the chip will always be vulnerable in some way and Trezors are not safe unless all devices are replaced with ones that use safer chips.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://cdn-images-1.medium.com/max/1000/1*wZCWyhLJHmg_6S2XqFwdTQ.jpeg&quot; style=&quot;max-width:100%&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Furthermore:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Trezor so far greatly downplays the importance of this hack. There is no long-term access needed to copy all your secret information from Trezor using this hack, &lt;strong&gt;it can be done just in 15 seconds&lt;/strong&gt;. If your Trezor is stolen, you don’t even have time to transfer you funds to a new address. &lt;strong&gt;Government authorities can access all your Bitcoins and other crypto currencies without even asking for your consent. If you are crossing an international border, TSA can easily check your balances, etc.&lt;/strong&gt; IRL, Trezor is as safe as leaving your cash or wallet on the table. On top of all that, your Trezor can be restored to its original state or replaced with identical Trezor with the same configuration, you wouldn’t even notice any difference until it is too late.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;The exploit surely now can be done in 15 seconds at the airport since the &lt;a href=&quot;https://satoshibox.com/fwipady7nvbqoqreeso4cf82&quot;&gt;source code for it is public&lt;/a&gt;.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;The key to performing this hack is simply connecting two pins inside the Trezor device at the right time, even paperclip is suitable for this.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Only a simple version of this hack requires the disassembly of Trezor. A more advanced version also exists. No disassembly is required!&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;The author linked a satoshibox file with an exploit for the new firmware (1.5.2) but the link is broken.&lt;/p&gt;
+
+&lt;h4 id=&quot;what-can-you-do&quot;&gt;What can you do?&lt;/h4&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Turn on password protection&lt;/strong&gt;. Passwords in Trezor create a 25th word of a seedphrase. Trezor claims password protection makes the devices safe against this exploit, it is for researchers now to prove or disprove that.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Keep your Trezor in a vault, don’t have it on you when you cross borders.&lt;/strong&gt; You could have done better with a paper wallet though, or simply with a seedphrase note, couldn’t you?&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Build your own cold storage solution.&lt;/strong&gt; Back in the day, people used to use a spare clean computer with Armory or Electrum. &lt;a href=&quot;https://github.com/goatpig/BitcoinArmory/graphs/contributors&quot;&gt;BitcoinArmory is maintained again&lt;/a&gt; but Electrum is the wallet that gets forked to support your altcoin of the month. When you have doubts as to whether to believe a wallet software, like many people had with Bitcoin Cash wallet Electron, you can always install it on a virtual machine.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+</description>
+        <pubDate>Thu, 17 Aug 2017 14:18:25 +0200</pubDate>
+        <link>https://www.altcointrading.net/trezor-hack</link>
+        <guid isPermaLink="true">https://www.altcointrading.net/trezor-hack</guid>
+        
+        <category>wallets</category>
+        
+        
+        <category>altcoins</category>
+        
+        <category>wallets</category>
+        
+      </item>
     
       <item>
         <title>Bitstamp launches Ethereum trading tomorrow</title>
@@ -517,90 +587,6 @@ maybe you loan them out for interest.&lt;/p&gt;
         <pubDate>Sun, 18 Jun 2017 16:12:00 +0200</pubDate>
         <link>https://www.altcointrading.net/lending-btc-chain-split</link>
         <guid isPermaLink="true">https://www.altcointrading.net/lending-btc-chain-split</guid>
-        
-        
-        <category>trading</category>
-        
-      </item>
-    
-      <item>
-        <title>Tezos fundraiser scheduled 1 July</title>
-        <description>&lt;p&gt;Tezos Foundation just sent out an email detailing the eagerly awaited ICO.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://image.prntscr.com/image/XujkhUErQmCyI-hpq7qM2A.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-
-&lt;h3 id=&quot;text-of-the-email&quot;&gt;Text of the email:&lt;/h3&gt;
-
-&lt;p&gt;&lt;strong&gt;Tezos Fundraiser scheduled for July 1&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;This is a message from the Tezos foundation.&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;The Tezos Foundation is pleased to announce that the legal structure of the Tezos Foundation, its fundraiser, and related contracts have been approved by the Swiss Foundation Supervisory Authority.&lt;/p&gt;
-
-&lt;p&gt;With this regulatory stamp of approval, we are now excited to announce the official start of the &lt;strong&gt;Tezos fundraiser on Saturday, July 1, 2017 at 6 am UTC&lt;/strong&gt;. We chose this date to give everyone enough time to complete their funding arrangements.&lt;/p&gt;
-
-&lt;p&gt;We believe it’s important to do things right and protect our contributors and users from risk, which is why we went beyond current industry practice and waited to receive official approval before accepting contributions. We expect this high level of care to serve our technology, our community, and the world as we continue to build and grow this essential infrastructure for a free and prosperous society.&lt;/p&gt;
-
-&lt;p&gt;For technical information on how to participate in the Tezos fundraiser, please always refer exclusively to the Tezos website at https://tezos.com&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Contributions will open at https://tezos.com on July 1 at 6 am UTC&lt;/strong&gt;. In addition, we have approved our broker, &lt;strong&gt;Bitcoin Suisse&lt;/strong&gt;, to offer its customers participation in the Tezos fundraiser for a fee. Note that only Bitcoin Suisse and no other service has been approved to do so, and that using such a service requires you to trust the service provider with your private keys.&lt;/p&gt;
-
-&lt;p&gt;If you would like to contribute, only do so through our own website https://tezos.com once the fundraiser opens, or through &lt;strong&gt;&lt;a href=&quot;https://www.bitcoinsuisse.ch/tezos&quot;&gt;https://www.bitcoinsuisse.ch/tezos&lt;/a&gt; starting today&lt;/strong&gt;.&lt;/p&gt;
-
-&lt;p&gt;No other websites are authorized to provide information on Tezos or accept contributions to the Tezos fundraiser.&lt;/p&gt;
-
-&lt;p&gt;To stay updated with developments, sign up for the mailing list at https://tezos.com.&lt;/p&gt;
-
-&lt;p&gt;The Tezos Foundation is extremely pleased with the fantastic community that is starting to sprout around the Tezos project. The interest in the Tezos fundraiser has been electrifying. It is an amazing vote of confidence in decentralized governance and in the world class team developing the project. That interest has been matched by engineering development resulting in a testnet that has been operating for several months already and a production version that is expected to ship later this year.&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;Many thanks&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;Johann, Guido, Diego, and the Tezos Foundation team&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;Note: If you intend to participate through Bitcoin Suisse rather than directly through https://tezos.com, bear in mind that funding arrangements can take longer than expected - in some cases, two weeks or longer. So if you want to ensure your participation, you should start the process immediately.&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h3 id=&quot;the-fees-and-all&quot;&gt;The fees and all&lt;/h3&gt;
-
-&lt;p&gt;Some information about the Bitcoin Suisse way: There is a fee of 100 CHF (cca 100USD) and 1.25% fee on the money you want to contribute. You have to AML/KYC with your ID, selfie with ID and proof of address. They say they are getting a lot of requests.&lt;/p&gt;
-
-&lt;p&gt;To look at the numbers, if you want to send them 10K in bitcoins, your fee will be about 225 USD. You can also send them Ether or several kinds of fiat but in that case expect more haircut as the ICO is on BTC blockchain and all contributions will be changed into bitcoins.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;What you get for this fee in pre-sale is that you are guaranteed to be put in the blocks that get a bonus:&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;The Tezos ICO is capped by transactions that will make it in between the first 2000 blocks after opening.&lt;/p&gt;
-
-&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;BTC Block # Bonus   XTZ/BTC
-0-399       20%     6’000
-400-799     15%     5’750
-800-1’199   10%     5’500
-1’200-1’599 5%      5’250
-1’600-1’999 0%      5’000
-&lt;/code&gt;&lt;/pre&gt;
-&lt;/div&gt;
-
-&lt;p&gt;So for one bitcoin invested you are kind-of guaranteed to receive at least 5250 tezzies.&lt;/p&gt;
-
-&lt;p&gt;It is not clear how they are planning to do it, overpaying the fees on bundled transactions or what, to get the transactions confirmed, but that is the phrasing of it in the agreement:&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;Contributors who have signed up with and participate through Bitcoin Suisse AG, and who have completed their onboarding and funding at least 4 hours prior to the applicable rounds, is guaranteed participation in the “bonus” phase of the respective rounds.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;N.B: In case of force majeure, no guarantees regarding allocation or pricing of tokens are applicable.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;N.B: Exact conditions regarding the crowd sale may be subject to change from the side of TZ and founders.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;Force majeure means ‘unforeseeable circumstances that prevent someone from fulfilling a contract’. That’s a normal condition to have in a contract but at the same time there is always a lot of unforeseeable circumstances in crypto.&lt;/p&gt;
-</description>
-        <pubDate>Thu, 15 Jun 2017 10:12:00 +0200</pubDate>
-        <link>https://www.altcointrading.net/tezos</link>
-        <guid isPermaLink="true">https://www.altcointrading.net/tezos</guid>
         
         
         <category>trading</category>
