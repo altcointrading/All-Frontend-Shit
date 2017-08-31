@@ -5,8 +5,8 @@
     <description>Altcoin Trading is the forex of cryptocurrencies, with bitcoin as the base currency.</description>
     <link>https://www.altcointrading.net/</link>
     <atom:link href="https://www.altcointrading.net/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 01 Sep 2017 01:40:29 +0200</pubDate>
-    <lastBuildDate>Fri, 01 Sep 2017 01:40:29 +0200</lastBuildDate>
+    <pubDate>Fri, 01 Sep 2017 01:47:28 +0200</pubDate>
+    <lastBuildDate>Fri, 01 Sep 2017 01:47:28 +0200</lastBuildDate>
     <generator>Jekyll v3.4.3</generator>
     
       <item>
@@ -21,7 +21,10 @@
 
 &lt;p&gt;&lt;a href=&quot;https://www.reddit.com/r/bitfinex/comments/6x792r/bitfinex_deposit_eth_from_smart_contract_wallet/&quot;&gt;Thread on r/bitfinex where you can leave your support ticket number&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;The support is at Poloniex level at the moment: too many users having the same issue, no tickets resolved, and at the moment not looking likely to be resolved. Main thing is we have a new frontend interface boys!&lt;/p&gt;
+&lt;p&gt;The support is at Poloniex level at the moment: too many users having the same issue, no tickets resolved. The only thing that sparks some “hope” is a recent tweet from Bitfinex: Apparently, they &lt;a href=&quot;https://twitter.com/bitfinex/status/900646338941128704&quot;&gt;solve deposit “errors” for a $25 processing fee&lt;/a&gt;. I say “errors” because they were talking about sending BCH to an old BTC wallet, which is not really an error since the blockchain got duplicated so the address exists on BCH too if it existed on BTC before the fork. It’s not as much a payment for an error as a … payment for something that is invented to solve a problem which doesn’t really exist.&lt;/p&gt;
+
+&lt;p&gt;Anyway! Main thing is we have a new frontend interface boys!&lt;/p&gt;
+
 </description>
         <pubDate>Fri, 01 Sep 2017 00:18:50 +0200</pubDate>
         <link>https://www.altcointrading.net/bitifinex-eats-your-eth</link>
