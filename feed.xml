@@ -5,9 +5,34 @@
     <description>Altcoin Trading is the forex of cryptocurrencies, with bitcoin as the base currency.</description>
     <link>https://www.altcointrading.net/</link>
     <atom:link href="https://www.altcointrading.net/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 01 Sep 2017 01:36:05 +0200</pubDate>
-    <lastBuildDate>Fri, 01 Sep 2017 01:36:05 +0200</lastBuildDate>
+    <pubDate>Fri, 01 Sep 2017 01:40:29 +0200</pubDate>
+    <lastBuildDate>Fri, 01 Sep 2017 01:40:29 +0200</lastBuildDate>
     <generator>Jekyll v3.4.3</generator>
+    
+      <item>
+        <title>PSA: Don't send ETH from Bitstamp to Bitfinex</title>
+        <description>&lt;p&gt;Apparently, the newly launched ETH trading on Bitstamp comes with an unpleasant surprise: If you withdraw ETH, the withdrawal is processed via a smart contract, &lt;strong&gt;which is not indicated on the ETH withdrawal page&lt;/strong&gt; - there is only a fineprint note below the withdrawal page’s fold that says “Please make sure that the receiving party supports Ethereum transactions generated from smart contracts prior to initiating an ETH withdrawal”.&lt;/p&gt;
+
+&lt;p&gt;If you happen to withdraw from Bitstamp to Bitfinex, your deposit will be confirmed on the blockchain but your money will not be credited because Bitfinex doesn’t accept deposits from smart contract.&lt;/p&gt;
+
+&lt;p&gt;They’ll still receive the money though. The money you didn’t know was sent via a smart contract. Because the receiving wallets are not using a smart contract themselves, so that they could make the transaction bounce.&lt;/p&gt;
+
+&lt;p&gt;What a time to be alive.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.reddit.com/r/bitfinex/comments/6x792r/bitfinex_deposit_eth_from_smart_contract_wallet/&quot;&gt;Thread on r/bitfinex where you can leave your support ticket number&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;The support is at Poloniex level at the moment: too many users having the same issue, no tickets resolved, and at the moment not looking likely to be resolved. Main thing is we have a new frontend interface boys!&lt;/p&gt;
+</description>
+        <pubDate>Fri, 01 Sep 2017 00:18:50 +0200</pubDate>
+        <link>https://www.altcointrading.net/bitifinex-eats-your-eth</link>
+        <guid isPermaLink="true">https://www.altcointrading.net/bitifinex-eats-your-eth</guid>
+        
+        
+        <category>trading</category>
+        
+        <category>bitfinex</category>
+        
+      </item>
     
       <item>
         <title>Demand for cryptocurrency in Asia just got less mysterious</title>
@@ -454,43 +479,6 @@ If ETH main office says you cheat, you lose your stake. If ETH main office says 
         <category>xmr</category>
         
         <category>altcoins</category>
-        
-      </item>
-    
-      <item>
-        <title>Gary Vee on Ethereum</title>
-        <description>&lt;p&gt;Entrepreneur and influencer Gary Vaynerchuk on Ethereum:&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;Ethereum’s got huge upside […] I still know that there’s so many people that know so much more, but here’s what I would say: It can’t lose over time. So I don’t know how that manifests but it’s binary. It’s going to work over time. Here’s what I don’t know - I don’t know how I think because I haven’t done my homework and what governments will do about it. [Ethereum is backed by big companies] - Big companies are much smaller than governments. So I don’t know that. The reason I love Ethereum is that it’s so much more agnostic than a currency. […] So overall I think it’s gonna work.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://youtu.be/mkR4-ZDAWcI&quot;&gt;On Youtube&lt;/a&gt;&lt;/p&gt;
-
-&lt;script async=&quot;&quot; custom-element=&quot;amp-youtube&quot; src=&quot;https://cdn.ampproject.org/v0/amp-youtube-0.1.js&quot;&gt;&lt;/script&gt;
-
-&lt;amp-youtube data-videoid=&quot;mkR4-ZDAWcI&quot; layout=&quot;responsive&quot; width=&quot;700&quot; height=&quot;360&quot;&gt;&lt;/amp-youtube&gt;
-
-&lt;hr /&gt;
-
-&lt;p&gt;There is &lt;a href=&quot;https://www.facebook.com/groups/Ethereum/permalink/1221683854624326/&quot;&gt;another version on Facebook in the Ethereum group&lt;/a&gt; that is longer, Gary goes on to hint that maybe if the crypto space continues to grow someday in the future he’s going to say ‘You know what, fuck it,’ and go full on crypto.&lt;/p&gt;
-
-&lt;p&gt;Here is a &lt;a href=&quot;http://www.dailymotion.com/video/x5r4p9h&quot;&gt;screencast of the missing part&lt;/a&gt; from the private video from Facebook:&lt;/p&gt;
-
-&lt;script async=&quot;&quot; custom-element=&quot;amp-dailymotion&quot; src=&quot;https://cdn.ampproject.org/v0/amp-dailymotion-0.1.js&quot;&gt;&lt;/script&gt;
-
-&lt;amp-dailymotion data-videoid=&quot;x5r4p9h&quot; layout=&quot;responsive&quot; width=&quot;700&quot; height=&quot;360&quot;&gt;&lt;/amp-dailymotion&gt;
-
-&lt;hr /&gt;
-
-&lt;p&gt;Gary Vee has been asked many times about bitcoin in his Youtube ask show but every time he simply said he understands neither crypto nor the regulations hence he can’t talk about that.&lt;/p&gt;
-</description>
-        <pubDate>Sun, 18 Jun 2017 23:12:00 +0200</pubDate>
-        <link>https://www.altcointrading.net/garyvee-eth</link>
-        <guid isPermaLink="true">https://www.altcointrading.net/garyvee-eth</guid>
-        
-        
-        <category>eth</category>
         
       </item>
     
